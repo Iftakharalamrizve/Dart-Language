@@ -1,4 +1,6 @@
 void main() {
+
+  //this have basic data type number double String Bool Hexa numebr with data type and var 
   int number = 10;
   var snumber=10;
   
@@ -12,8 +14,7 @@ void main() {
   
   bool valid=true;
   var invalid=true;
-  
-  
+
   //print hexa number 
   int hexValue = 0xEADEBAEE;
     
