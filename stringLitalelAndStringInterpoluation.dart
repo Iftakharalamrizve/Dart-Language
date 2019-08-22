@@ -11,7 +11,7 @@ void main(){
   String s1 = 'Single';
 	String s2 = "Double";
 	String s3 = 'It\'s easy';
-	String s4 = "It's easy"
+	String s4 = "It's easy";
   var data='This is bangladesh it is beautiful country'
             'So we can called this is One of the most beautiful country in word ';
 
